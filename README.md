@@ -2,37 +2,35 @@
 shyam@local:~$ whoami
 ```
 
-CS undergrad at Galgotias. Graduating 2026. Building things in the AI/agentic space.
-
-Mostly working in Python. Know my way around Java and C++ when needed.
-
----
-
-**what i'm into right now**
-
-- agentic systems — agents that actually do stuff, not chatbots
-- training models from scratch to understand what's actually happening under the hood
-- computer vision pipelines that ship, not just notebooks
+CS undergrad at Galgotias. Graduating 2026.  
+Mostly building agentic systems — things that perceive, plan, and act on their own.
 
 ---
 
-**some things i've built**
+**pinned**
 
-→ **[NanoGrad](https://github.com/Iam-shyamrathore/Nanograd)** — wrote a neural net library from scratch. no pytorch, no tensorflow. autograd, backprop, the whole thing. did it to actually understand what these libraries are hiding.
+→ **[APCAN](https://github.com/Iam-shyamrathore/APCAN)** — autonomous patient care + admin navigator. voice-first, fully autonomous. built on Gemini and LangGraph. healthcare agent that actually runs workflows, not just answers questions.
 
-→ **[Brain Tumor Detection](https://github.com/Iam-shyamrathore/Brain-Tumor-detection-using-YOLOv10)** — YOLOv10 pipeline for MRI scan analysis. built for speed and consistency over manual review.
+→ **[scam-honey-pot](https://github.com/Iam-shyamrathore/scam-honey-pot)** — AI honeypot API that detects, engages, and extracts intel from scammers in real-time. FastAPI + Gemini 2.5 Flash. the agent flips the script — scammer becomes the target.
 
-→ more in the repos tab.
+→ **[Carrer-Advisor](https://github.com/Iam-shyamrathore/Carrer-Advisor)** — multi-agent career coaching system. personalized roadmaps, actionable analysis. TypeScript. built for students and freshers.
+
+→ **[graph-skill-inference](https://github.com/Iam-shyamrathore/graph-skill-infrence)** — maps technical expertise through meta-path exploration on heterogeneous knowledge graphs. less obvious, more interesting.
+
+→ **[NanoGrad](https://github.com/Iam-shyamrathore/Nanograd)** — neural net library from scratch. no pytorch, no tensorflow. wrote it to understand what the abstractions are actually doing.
+
+→ **[Brain Tumor Detection](https://github.com/Iam-shyamrathore/Brain-Tumor-detection-using-YOLOv10)** — YOLOv10 pipeline for MRI scan analysis.
 
 ---
 
 **stack**
 
 ```
-python  java  c++  c  sql
-yolo  pygame  unity  mysql
+python  typescript  fastapi  langgraph  gemini
+yolo  knowledge graphs  multi-agent systems
+java  c++  sql
 ```
 
 ---
 
-open to internships and research collabs. noida, IN.
+open to internships and research collabs.
